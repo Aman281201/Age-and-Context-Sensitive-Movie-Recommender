@@ -35,3 +35,19 @@ NOTE: Upon the first run, the system may take longer to generate the queries as 
 Once the recommendations have been generated, you may click them to learn more about them. <br>
 If you like the recommendations, add the movie to your wishlist by pressing the heart button displayed on the movie page or the recommendations page and help us collect data on our recommendations. <br>
 
+## Screens
+### Home
+<img width="616" alt="image" src="https://github.com/Aman281201/Age-and-Context-Sensitive-Movie-Recommender/assets/74315059/90cd5427-03c7-4dfc-872d-42ab96e94cb6">
+
+### Results
+
+<img width="659" alt="image" src="https://github.com/Aman281201/Age-and-Context-Sensitive-Movie-Recommender/assets/74315059/72856df6-5ed8-4879-bc1d-80a937fc2854">
+
+<img width="714" alt="image" src="https://github.com/Aman281201/Age-and-Context-Sensitive-Movie-Recommender/assets/74315059/f13122dc-d022-49c8-8377-3bf59293cdda">
+
+
+
+
+
+
+
